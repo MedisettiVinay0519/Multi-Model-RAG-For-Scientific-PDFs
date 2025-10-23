@@ -10,7 +10,7 @@ The core innovation lies in leveraging sophisticated document parsing to segment
 
 **Diagram illustrating the multi-modal RAG workflow:**
 
-<img src="" alt="Diagram showing the multi-modal RAG pipeline using LangChain, breaking down documents into text, tables, and images for separate indexing and retrieval." style="max-width:800px; width:100%;"/>
+<img src="image/multimodelrag.jpg" alt="Diagram showing the multi-modal RAG pipeline using LangChain, breaking down documents into text, tables, and images for separate indexing and retrieval." style="max-width:800px; width:100%;"/>
 
 ---
 
